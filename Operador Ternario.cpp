@@ -22,8 +22,7 @@ int main()
     cout << "Digite um numero!"<< "\n";
     cin >> number;
 
-    //(number!=0)?number++:number=999; // condicional ternário substitui o código abaixo para resultados simples
-
+    (number!=0)?number++:number=999; // condicional ternário substitui o código abaixo para resultados simples
     /*
             if (number!=0){
                 number = number + 1;
